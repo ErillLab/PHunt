@@ -1,0 +1,7 @@
+name: phunt-env
+channels:
+  - defaults
+dependencies:
+  - biopython
+  - jupyter
+  - matplotlib
